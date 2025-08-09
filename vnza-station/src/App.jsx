@@ -2,6 +2,7 @@ import { useState } from 'react'
 
 import './App.css'
 import LandingPage from './components/LandingPage/LandingPage'
+import SongDisplayPage from './components/SongDisplayPage/SongDisplayPage'
 
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
   return (
     <>     
       <LandingPage/>  
+      <SongDisplayPage/>
     </>
   )
 }

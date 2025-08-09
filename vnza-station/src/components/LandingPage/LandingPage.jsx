@@ -15,7 +15,6 @@ function LandingPage(){
             <div className="absolute bottom-0 w-full h-1/2 overflow-hidden flex justify-center items-start pt-10">
                <img src="/cartoon-me.svg" alt="cartoon drawing of me"/>
             </div>
-            
         </CenteredPage>
     );
 }
